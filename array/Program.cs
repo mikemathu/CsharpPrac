@@ -70,9 +70,15 @@
             //FOREACH LOOP
             int[] scores = new int[] { 75, 44, 34, 25, 78, 89, 90, 69, 45, 36 };
 
-            foreach(int score in scores)
+            //foreach(int score in scores)
+            //{
+            //Console.WriteLine("Someone had this score: "+score);
+            //}
+
+            //FOR LOOP
+            for (int index= 0; index<scores.Length; index++ )
             {
-                Console.WriteLine("Someone had this score: "+score);
+                Console.WriteLine("Score #" + index + " is " + scores[index]);
             }
         }
     }
