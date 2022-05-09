@@ -33,12 +33,11 @@
             for (int index = 0; index < array.Length; index++)
             {
                 //total
-                // total  += array[index];
-
-                //Average
-                total += array[index] / (array.Length);
+                 total  += array[index];
             }
-            Console.WriteLine(total);
+            //Average
+            float average = (float)total / (array.Length);
+            Console.WriteLine(average);
         }
     }
 }
