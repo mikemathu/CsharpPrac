@@ -12,7 +12,20 @@
 
             //int lengthInArray = scores.Length;
 
-           // Console.WriteLine(scores[1]);
+            // Console.WriteLine(scores[1]);
+
+            //MINIMUM VALUE IN AN ARRAY
+            int[] array = new int[] { 4, 51, -7, 13, -99, 15, -8, 45, 90 };
+            int currentMinimum = Int32.MaxValue;
+
+            for (int index=0; index<array.Length; index++)
+            {
+                if(array[index] < currentMinimum)
+                {
+                    currentMinimum = array[index];
+                }
+            }
+            Console.WriteLine(currentMinimum);
         }
     }
 }
