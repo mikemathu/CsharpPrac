@@ -56,15 +56,23 @@
             //}
 
             //Multi-dimentional array
-            int[,] matrix = new int[4, 4];
+            //int[,] matrix = new int[4, 4];
 
             //Fill in contents for multi-dimensional array
             //Note: GetLength gives back the size of the multi-dimensional array for a specific index.
-            for (int row = 0; row < matrix.GetLength(0); row++)
+            //for (int row = 0; row < matrix.GetLength(0); row++)
+            //{
+            //for (int column = 0; column < matrix.GetLength(1); column++)
+            //Console.Write(matrix[row, column] + " ");
+            //Console.WriteLine();
+            //}
+
+            //FOREACH LOOP
+            int[] scores = new int[] { 75, 44, 34, 25, 78, 89, 90, 69, 45, 36 };
+
+            foreach(int score in scores)
             {
-            for (int column = 0; column < matrix.GetLength(1); column++)
-            Console.Write(matrix[row, column] + " ");
-            Console.WriteLine();
+                Console.WriteLine("Someone had this score: "+score);
             }
         }
     }
