@@ -1,0 +1,15 @@
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.csproj.AssemblyReference.cache
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.AssemblyInfoInputs.cache
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.AssemblyInfo.cs
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.csproj.CoreCompileInputs.cache
+C:\C#\repos\Prac\Copying an array\bin\Debug\net6.0\Copying an array.exe
+C:\C#\repos\Prac\Copying an array\bin\Debug\net6.0\Copying an array.deps.json
+C:\C#\repos\Prac\Copying an array\bin\Debug\net6.0\Copying an array.runtimeconfig.json
+C:\C#\repos\Prac\Copying an array\bin\Debug\net6.0\Copying an array.dll
+C:\C#\repos\Prac\Copying an array\bin\Debug\net6.0\Copying an array.pdb
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.dll
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\refint\Copying an array.dll
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.pdb
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\Copying an array.genruntimeconfig.cache
+C:\C#\repos\Prac\Copying an array\obj\Debug\net6.0\ref\Copying an array.dll
