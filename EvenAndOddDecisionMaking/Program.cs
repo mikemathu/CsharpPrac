@@ -9,18 +9,26 @@
 
            int number = Convert.ToInt32(numberAsText);
 
-            int modulus = number % 2;
+            //int modulus = number % 2;
 
-            if (modulus == 0)
-            {
-                Console.WriteLine("Even Number");
-            }
+            //if (modulus == 0)
+            //{
+                //Console.WriteLine("Even Number");
+            //}
+            //else
+            //{
+                //Console.WriteLine("Odd Number");
+            //}
+
+            //Improved way
+            bool modulus = (number % 2 == 0);
+
+            if (modulus)
+                Console.WriteLine("Even number");
             else
-            {
-                Console.WriteLine("Odd Number");
-            }
+                Console.WriteLine("Odd number");
 
-        
+            
 
 
         }
