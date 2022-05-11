@@ -1,0 +1,15 @@
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.csproj.AssemblyReference.cache
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.AssemblyInfoInputs.cache
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.AssemblyInfo.cs
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.csproj.CoreCompileInputs.cache
+C:\C#\repos\Prac\Bool\bin\Debug\net6.0\Bool.exe
+C:\C#\repos\Prac\Bool\bin\Debug\net6.0\Bool.deps.json
+C:\C#\repos\Prac\Bool\bin\Debug\net6.0\Bool.runtimeconfig.json
+C:\C#\repos\Prac\Bool\bin\Debug\net6.0\Bool.dll
+C:\C#\repos\Prac\Bool\bin\Debug\net6.0\Bool.pdb
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.dll
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\refint\Bool.dll
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.pdb
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\Bool.genruntimeconfig.cache
+C:\C#\repos\Prac\Bool\obj\Debug\net6.0\ref\Bool.dll
