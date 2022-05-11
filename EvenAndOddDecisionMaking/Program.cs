@@ -4,29 +4,33 @@
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Enter Number");
-           string numberAsText = Console.ReadLine();
 
-           int number = Convert.ToInt32(numberAsText);
+            while (true)
+            {
+                Console.WriteLine("Enter Number");
+                string numberAsText = Console.ReadLine();
 
-            //int modulus = number % 2;
+                int number = Convert.ToInt32(numberAsText);
 
-            //if (modulus == 0)
-            //{
+                //int modulus = number % 2;
+
+                //if (modulus == 0)
+                //{
                 //Console.WriteLine("Even Number");
-            //}
-            //else
-            //{
+                //}
+                //else
+                //{
                 //Console.WriteLine("Odd Number");
-            //}
+                //}
 
-            //Improved way
-            bool modulus = (number % 2 == 0);
+                //Improved way
+                bool modulus = (number % 2 == 0);
 
-            if (modulus)
-                Console.WriteLine("Even number");
-            else
-                Console.WriteLine("Odd number");
+                if (modulus)
+                    Console.WriteLine("Even number");
+                else
+                    Console.WriteLine("Odd number");
+            }
 
             
 
