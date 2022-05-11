@@ -1,42 +1,15 @@
-﻿namespace Class_Ball
+﻿using Class_Creation;
+
+namespace Class_creation
 {
-    class Ball
+    public class Program
     {
-        //Insatant variables/fields
-        private int size;
-        private int color;
-        private int thrown;
-
-        //constructor
-        public Ball(int size, int color, int thrown)
+        static void Main(string[] args)
         {
-            this.size = size;
-            this.color = color;
-            this.thrown = thrown;
-        }
+            Color color = new Color(10, 24, 32, 56);
 
-        //method
-        public int Pop()
-        {
-            size = 0;
-            return size;
-        }
-
-        public int Thrown()
-        {
-            if (size == 0)
-            {
-                this.thrown += 1;
-            }
-            return thrown;
-        }
-
-        public int Times()
-        {
+            GetColor();
 
         }
-
-
-
     }
 }
