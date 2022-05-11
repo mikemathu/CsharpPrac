@@ -1,0 +1,15 @@
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\bin\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.exe
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\bin\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.deps.json
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\bin\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.runtimeconfig.json
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\bin\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.dll
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\bin\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.pdb
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.csproj.AssemblyReference.cache
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.AssemblyInfoInputs.cache
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.AssemblyInfo.cs
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.csproj.CoreCompileInputs.cache
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.dll
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\refint\PositiveOrNegativeNumbersMultiplication.dll
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.pdb
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\PositiveOrNegativeNumbersMultiplication.genruntimeconfig.cache
+C:\C#\repos\Prac\PositiveOrNegativeNumbersMultiplication\obj\Debug\net6.0\ref\PositiveOrNegativeNumbersMultiplication.dll
