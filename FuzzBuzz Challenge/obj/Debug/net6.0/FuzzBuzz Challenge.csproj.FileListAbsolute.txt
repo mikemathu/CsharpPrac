@@ -1,0 +1,15 @@
+C:\C#\repos\Prac\FuzzBuzz Challenge\bin\Debug\net6.0\FuzzBuzz Challenge.exe
+C:\C#\repos\Prac\FuzzBuzz Challenge\bin\Debug\net6.0\FuzzBuzz Challenge.deps.json
+C:\C#\repos\Prac\FuzzBuzz Challenge\bin\Debug\net6.0\FuzzBuzz Challenge.runtimeconfig.json
+C:\C#\repos\Prac\FuzzBuzz Challenge\bin\Debug\net6.0\FuzzBuzz Challenge.dll
+C:\C#\repos\Prac\FuzzBuzz Challenge\bin\Debug\net6.0\FuzzBuzz Challenge.pdb
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.csproj.AssemblyReference.cache
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.AssemblyInfoInputs.cache
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.AssemblyInfo.cs
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.csproj.CoreCompileInputs.cache
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.dll
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\refint\FuzzBuzz Challenge.dll
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.pdb
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\FuzzBuzz Challenge.genruntimeconfig.cache
+C:\C#\repos\Prac\FuzzBuzz Challenge\obj\Debug\net6.0\ref\FuzzBuzz Challenge.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzBuzz Challenge", "FuzzBuzz Challenge.csproj", "{9683DE3C-DB47-4603-8AC4-E9E53B1D7AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9683DE3C-DB47-4603-8AC4-E9E53B1D7AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9683DE3C-DB47-4603-8AC4-E9E53B1D7AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9683DE3C-DB47-4603-8AC4-E9E53B1D7AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9683DE3C-DB47-4603-8AC4-E9E53B1D7AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF802F9-F6DE-462F-959B-8C643C43E1E4}
+	EndGlobalSection
+EndGlobal
