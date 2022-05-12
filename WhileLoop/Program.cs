@@ -53,13 +53,23 @@
             //}
 
             //FOR LOOP WORTH BREAKING
-            while (true)
-            {
-                Console.WriteLine("What is rhy bidding, my maste?");
-                string input = Console.ReadLine();
+            //while (true)
+            //{
+            //Console.WriteLine("What is rhy bidding, my maste?");
+            //string input = Console.ReadLine();
 
-                if (input == "quit" || input == "exit")
-                    break;
+            //if (input == "quit" || input == "exit")
+            //break;
+            //}
+
+            //CONTINUING TO THE NEXT ITERATION
+            for (int x = 1; x <= 10; x++)
+            {
+                if (x == 3)
+                    continue;
+                //break;
+
+                Console.WriteLine(x);
             }
 
      
