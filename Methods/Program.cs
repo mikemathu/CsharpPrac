@@ -14,19 +14,25 @@
             //Console.WriteLine(index);
             //}
 
-            //SEQUENTIAL CODE EXECUTION
-            Console.WriteLine("I am about to go into a mwthod");
+            //RETURNING STAFF FROM A METHOD
+            int userNumber = GetNumberFromUser();
 
-            DoSomethingAwesome();
+            Console.WriteLine(userNumber);
 
-            Console.WriteLine("I am back from the method");
 
         }
 
-        static void DoSomethingAwesome()
+        static int GetNumberFromUser()
         {
-            Console.WriteLine("I am inside of a method! Awesome");
+            int userNumber = 0;
 
+            while (userNumber < 1 || userNumber > 10)
+            {
+                Console.WriteLine("Enter a number between 1 and 10");
+                string userResponse = Console.ReadLine();
+                userNumber = Convert.ToInt32(userResponse);
+            }
+            return userNumber;
         }
-    } 
+    }
 }
