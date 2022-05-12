@@ -63,16 +63,30 @@
             //}
 
             //CONTINUING TO THE NEXT ITERATION
-            for (int x = 1; x <= 10; x++)
-            {
-                if (x == 3)
-                    continue;
-                //break;
+            //for (int x = 1; x <= 10; x++)
+            //{
+            //if (x == 3)
+            //continue;
+            //break;
 
-                Console.WriteLine(x);
+            //Console.WriteLine(x);
+            //}
+
+            //NESTING LOOPS
+            for (int index = 0; index < 2; index++)
+            {
+                for (int letter = 0; letter < 10; letter++)
+                {
+                    Console.WriteLine(letter);
+                }
+                Console.WriteLine();
             }
 
-     
+            
+
+
+
+
 
 
 
