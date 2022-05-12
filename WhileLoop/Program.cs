@@ -24,14 +24,20 @@
             //}
 
             //DO WHILE LOOP
-            int playerNumber;
-            do
+            //int playerNumber;
+            //do
+            //{
+            //Console.WriteLine("Enter number between 0 and 10");
+            //string palyerResponce = Console.ReadLine();
+            //playerNumber = Convert.ToInt32(palyerResponce);
+            //}
+            //while (playerNumber < 0 || playerNumber > 10);
+
+            //FOR LOOP
+            for (int x = 1; x <= 10; x++ )
             {
-                Console.WriteLine("Enter number between 0 and 10");
-                string palyerResponce = Console.ReadLine();
-                playerNumber = Convert.ToInt32(palyerResponce);
+                Console.WriteLine(x);
             }
-            while (playerNumber < 0 || playerNumber > 10);
 
      
 
