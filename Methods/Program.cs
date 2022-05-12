@@ -15,24 +15,43 @@
             //}
 
             //RETURNING STAFF FROM A METHOD
-            int userNumber = GetNumberFromUser();
+            //int userNumber = GetNumberFromUser();
 
-            Console.WriteLine(userNumber);
+            //Console.WriteLine(userNumber);
 
-
+            
+            Console.WriteLine(CalculatePlayerScore());
         }
 
-        static int GetNumberFromUser()
+        //static int GetNumberFromUser()
+        //{
+            //int userNumber = 0;
+
+            //while (userNumber < 1 || userNumber > 10)
+            //{
+                //Console.WriteLine("Enter a number between 1 and 10");
+                //string userResponse = Console.ReadLine();
+                //userNumber = Convert.ToInt32(userResponse);
+            //}
+            //return userNumber;            
+        //}
+
+
+
+        //RETURNING EARLY
+        static int CalculatePlayerScore()
         {
-            int userNumber = 0;
+            int livesLeft = 3;
+            int underLivingDestroyed = 17;
+            int minionsDestroyed = 4;
+            int bossesDestroyed = 1;
 
-            while (userNumber < 1 || userNumber > 10)
-            {
-                Console.WriteLine("Enter a number between 1 and 10");
-                string userResponse = Console.ReadLine();
-                userNumber = Convert.ToInt32(userResponse);
-            }
-            return userNumber;
+            if (livesLeft == 0)
+                return 0;
+
+            return underLivingDestroyed*10 + minionsDestroyed*100 + bossesDestroyed*1000;    
+
         }
+
     }
 }
