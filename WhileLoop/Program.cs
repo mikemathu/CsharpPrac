@@ -40,16 +40,26 @@
             //}
 
             //BREAKING OUT OF FOR LOOP
-            int numberThatCanCauseProblems = 54;
+            //int numberThatCanCauseProblems = 54;
 
-            for (int x = 1; x < 100; x++ )
+            //for (int x = 1; x < 100; x++ )
+            //{
+            //Console.WriteLine(x);
+
+            //if (x == numberThatCanCauseProblems)
+            //{
+            //break;
+            //}
+            //}
+
+            //FOR LOOP WORTH BREAKING
+            while (true)
             {
-                Console.WriteLine(x);
+                Console.WriteLine("What is rhy bidding, my maste?");
+                string input = Console.ReadLine();
 
-                if (x == numberThatCanCauseProblems)
-                {
+                if (input == "quit" || input == "exit")
                     break;
-                }
             }
 
      
