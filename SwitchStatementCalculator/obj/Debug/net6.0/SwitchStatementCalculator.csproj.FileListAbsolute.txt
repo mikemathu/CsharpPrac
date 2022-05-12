@@ -1,0 +1,15 @@
+C:\C#\repos\Prac\SwitchStatementCalculator\bin\Debug\net6.0\SwitchStatementCalculator.exe
+C:\C#\repos\Prac\SwitchStatementCalculator\bin\Debug\net6.0\SwitchStatementCalculator.deps.json
+C:\C#\repos\Prac\SwitchStatementCalculator\bin\Debug\net6.0\SwitchStatementCalculator.runtimeconfig.json
+C:\C#\repos\Prac\SwitchStatementCalculator\bin\Debug\net6.0\SwitchStatementCalculator.dll
+C:\C#\repos\Prac\SwitchStatementCalculator\bin\Debug\net6.0\SwitchStatementCalculator.pdb
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.csproj.AssemblyReference.cache
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.AssemblyInfoInputs.cache
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.AssemblyInfo.cs
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.csproj.CoreCompileInputs.cache
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.dll
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\refint\SwitchStatementCalculator.dll
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.pdb
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\SwitchStatementCalculator.genruntimeconfig.cache
+C:\C#\repos\Prac\SwitchStatementCalculator\obj\Debug\net6.0\ref\SwitchStatementCalculator.dll

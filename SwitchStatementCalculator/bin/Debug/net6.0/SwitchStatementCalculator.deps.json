@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SwitchStatementCalculator/1.0.0": {
+        "runtime": {
+          "SwitchStatementCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwitchStatementCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
