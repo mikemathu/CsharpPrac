@@ -34,9 +34,22 @@
             //while (playerNumber < 0 || playerNumber > 10);
 
             //FOR LOOP
-            for (int x = 1; x <= 10; x++ )
+            //for (int x = 1; x <= 10; x++ )
+            //{
+            //Console.WriteLine(x);
+            //}
+
+            //BREAKING OUT OF FOR LOOP
+            int numberThatCanCauseProblems = 54;
+
+            for (int x = 1; x < 100; x++ )
             {
                 Console.WriteLine(x);
+
+                if (x == numberThatCanCauseProblems)
+                {
+                    break;
+                }
             }
 
      
