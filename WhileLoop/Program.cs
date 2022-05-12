@@ -72,12 +72,26 @@
             //Console.WriteLine(x);
             //}
 
+
+
+
             //NESTING LOOPS
-            for (int index = 0; index < 2; index++)
+
+            //for (int index = 0; index < 2; index++)
+            //{
+                //for (int number = 0; number < 10; number++)
+                //{
+                    //Console.WriteLine(number);
+                //}
+                //Console.WriteLine();
+            //}
+
+
+            for (int index = 0; index < 3; index++)
             {
-                for (int letter = 0; letter < 10; letter++)
+                for (int number = 0; number < index+1; number++)
                 {
-                    Console.WriteLine(letter);
+                    Console.WriteLine(number);
                 }
                 Console.WriteLine();
             }
