@@ -20,7 +20,9 @@
             //Console.WriteLine(userNumber);
 
             
-            Console.WriteLine(CalculatePlayerScore());
+            //Console.WriteLine(CalculatePlayerScore());
+
+            //DoSomething();
         }
 
         //static int GetNumberFromUser()
@@ -39,19 +41,32 @@
 
 
         //RETURNING EARLY
-        static int CalculatePlayerScore()
-        {
-            int livesLeft = 3;
-            int underLivingDestroyed = 17;
-            int minionsDestroyed = 4;
-            int bossesDestroyed = 1;
+        //static int CalculatePlayerScore()
+        //{
+            //int livesLeft = 3;
+            //int underLivingDestroyed = 17;
+            //int minionsDestroyed = 4;
+            //int bossesDestroyed = 1;
 
-            if (livesLeft == 0)
-                return 0;
+            //if (livesLeft == 0)
+               // return 0;
 
-            return underLivingDestroyed*10 + minionsDestroyed*100 + bossesDestroyed*1000;    
+           // return underLivingDestroyed*10 + minionsDestroyed*100 + bossesDestroyed*1000;    
 
-        }
+        //}
+
+        //VOID WITH A RETIRN AT THE MIDDLE
+        //static void DoSomething()
+        //{
+           // int aNumber = 2;
+
+           // if (aNumber == 2)
+              //  return;
+ 
+           // Console.WriteLine("This only gets printed if the 'return' statement wasn't executed");
+        //}
+
+        //PASSING STAFF TO A METHOD
 
     }
 }
