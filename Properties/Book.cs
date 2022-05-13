@@ -45,17 +45,20 @@ namespace Properties
         //PROPERTIES
 
         //Creating properties
+        //public string Title
+        //{
+            //get { return title; }
+            //set { title = value; }
+        //}
+        //public string Author
+        //{
+            //get { return author; }
+            //set { author = value; }
+        //}
 
-        public string Title
-        {
-            get { return title; }
-            set { title = value; }
-        }
-        public string Author
-        {
-            get { return author; }
-            set { author = value; }
-        }
+        //Auto-Implemented Properties
+        public string Title { get; set; }
+        public string Author { get; set; }
 
 
 
