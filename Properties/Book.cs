@@ -32,14 +32,29 @@ namespace Properties
         }
 
         //Method
-        public string GetTitle()
-        {
-            return title;
-        }
+        //public string GetTitle()
+        //{
+            //return title;
+        //}
         //Specify the new titile for the new book
-        public void SetTitle(string title)
+        //public void SetTitle(string title)
+        //{
+            //this.title = title;
+        //}
+
+        //PROPERTIES
+
+        //Creating properties
+
+        public string Title
         {
-            this.title = title;
+            get { return title; }
+            set { title = value; }
+        }
+        public string Author
+        {
+            get { return author; }
+            set { author = value; }
         }
 
 
