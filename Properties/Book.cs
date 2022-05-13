@@ -34,12 +34,12 @@ namespace Properties
         //Method
         //public string GetTitle()
         //{
-            //return title;
+        //return title;
         //}
         //Specify the new titile for the new book
         //public void SetTitle(string title)
         //{
-            //this.title = title;
+        //this.title = title;
         //}
 
         //PROPERTIES
@@ -47,18 +47,23 @@ namespace Properties
         //Creating properties
         //public string Title
         //{
-            //get { return title; }
-            //set { title = value; }
+        //get { return title; }
+        //set { title = value; }
         //}
         //public string Author
         //{
-            //get { return author; }
-            //set { author = value; }
+        //get { return author; }
+        //set { author = value; }
         //}
 
         //Auto-Implemented Properties
-        public string Title { get; set; }
-        public string Author { get; set; }
+        //public string Title { get; set; }
+        //public string Author { get; set; }
+
+        //Read-Only uto-Implemented Properties
+        //Using default values
+        public string Title { get; set; } = "Think and grow rich";
+        public string Author { get; set; } = "Mike";
 
 
 
