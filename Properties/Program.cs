@@ -19,7 +19,9 @@ namespace Properties
             //book.Author = "New Author";//set
 
             Console.WriteLine(book.Title);
-            Console.WriteLine(book.Author);
+            //Console.WriteLine(book.Author);
+
+           
 
 
 

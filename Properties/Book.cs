@@ -9,7 +9,7 @@ namespace Properties
     internal class Book
     {
         //Instant variable
-        private string title;
+        private string title = "TITLE IS";
         private string author;
         private int pages;
         private int wordCount;
@@ -62,8 +62,18 @@ namespace Properties
 
         //Read-Only uto-Implemented Properties
         //Using default values
-        public string Title { get; set; } = "Think and grow rich";
-        public string Author { get; set; } = "Mike";
+        //public string Title { get; set; } = "Think and grow rich";
+        //public string Author { get; set; } = "Mike";
+
+        //Using Constructor
+        public string Title  { get; }
+        public string Author { get; }
+        public Book(string title, string author)
+        {
+            Title = title;
+            Author = author;
+        }
+        
 
 
 
