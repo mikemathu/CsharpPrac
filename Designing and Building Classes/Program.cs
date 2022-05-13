@@ -1,7 +1,22 @@
-﻿namespace BuildingClasses
+﻿using Designing_and_Building_Classes;
+
+namespace BuildingClasses
 {
     public class Color
     {
+        static void Main(string[] args)
+        {
+            Color color = new Color(3, 5 ,4 ,5);          
+            //Console.WriteLine(color.GetAverage());
+
+            Ball ball = new Ball ();
+            //ball.Pop();
+            ball.Throw();
+
+
+
+            Console.WriteLine(ball.ThrowCount());
+        }
         //Instant variables
         private int red;
         private int green;
@@ -10,7 +25,10 @@
 
         public Color(int red, int green, int blue, int alpha)
         {
-
+            this.red = red;
+            this.green = green;
+            this.blue = blue;
+            this.alpha = alpha;
         }
 
         public Color(int red, int green, int blue)

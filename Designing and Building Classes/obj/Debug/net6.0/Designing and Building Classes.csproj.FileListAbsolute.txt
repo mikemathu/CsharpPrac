@@ -1,0 +1,15 @@
+C:\C#\repos\Prac\Designing and Building Classes\bin\Debug\net6.0\Designing and Building Classes.exe
+C:\C#\repos\Prac\Designing and Building Classes\bin\Debug\net6.0\Designing and Building Classes.deps.json
+C:\C#\repos\Prac\Designing and Building Classes\bin\Debug\net6.0\Designing and Building Classes.runtimeconfig.json
+C:\C#\repos\Prac\Designing and Building Classes\bin\Debug\net6.0\Designing and Building Classes.dll
+C:\C#\repos\Prac\Designing and Building Classes\bin\Debug\net6.0\Designing and Building Classes.pdb
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.csproj.AssemblyReference.cache
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.AssemblyInfoInputs.cache
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.AssemblyInfo.cs
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.csproj.CoreCompileInputs.cache
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.dll
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\refint\Designing and Building Classes.dll
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.pdb
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\Designing and Building Classes.genruntimeconfig.cache
+C:\C#\repos\Prac\Designing and Building Classes\obj\Debug\net6.0\ref\Designing and Building Classes.dll
