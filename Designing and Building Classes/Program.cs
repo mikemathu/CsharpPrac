@@ -1,4 +1,5 @@
-﻿using Designing_and_Building_Classes;
+﻿using static System.Console;
+using Designing_and_Building_Classes;
 
 namespace BuildingClasses
 {
@@ -6,6 +7,9 @@ namespace BuildingClasses
     {
         static void Main(string[] args)
         {
+
+
+
             Color color = new Color(3, 5 ,4 ,5);          
             //Console.WriteLine(color.GetAverage());
 
@@ -15,7 +19,7 @@ namespace BuildingClasses
 
 
 
-            Console.WriteLine(ball.ThrowCount());
+            WriteLine(ball.ThrowCount());
         }
         //Instant variables
         private int red;
@@ -36,23 +40,40 @@ namespace BuildingClasses
             this.alpha = 255;
         }
 
-        public int GetRed()
+        //public int GetRed()
+        //{
+            //return red;
+        //}
+
+        public int Red { get; set; }
+        //public int GetGreen()
+        //{
+           // return green;
+       // }
+
+        public int Green
         {
-            return red;
-        }
-        public int GetGreen()
-        {
-            return green;
+            get { return green; }
+            set { green = value; }
         }
 
-        public int GetBlue()
-        {
-            return blue;
-        }
+        //public int GetBlue()
+        //{
+           // return blue;
+       // }
+
+        public int Blue { get; set; } = 35;
 
         public int GetAlpha()
         {
             return alpha;
+        }
+
+        public int Alpha { get; }
+
+        public Color(int alpha)
+        {
+            Alpha = alpha;
         }
 
         public int GetAverage()

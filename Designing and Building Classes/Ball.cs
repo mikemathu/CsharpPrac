@@ -8,6 +8,7 @@ namespace Designing_and_Building_Classes
 {
     internal class Ball
     {
+      
         private int size;
         private int color;
         private int throwCount;
@@ -26,6 +27,7 @@ namespace Designing_and_Building_Classes
         public int ThrowCount()
         {
             return throwCount;
+
         }
     }
 }
