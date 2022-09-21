@@ -1,0 +1,15 @@
+C:\C#\repos\InheritanceRevision\bin\Debug\net6.0\InheritanceRevision.exe
+C:\C#\repos\InheritanceRevision\bin\Debug\net6.0\InheritanceRevision.deps.json
+C:\C#\repos\InheritanceRevision\bin\Debug\net6.0\InheritanceRevision.runtimeconfig.json
+C:\C#\repos\InheritanceRevision\bin\Debug\net6.0\InheritanceRevision.dll
+C:\C#\repos\InheritanceRevision\bin\Debug\net6.0\InheritanceRevision.pdb
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.csproj.AssemblyReference.cache
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.AssemblyInfoInputs.cache
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.AssemblyInfo.cs
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.csproj.CoreCompileInputs.cache
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.dll
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\refint\InheritanceRevision.dll
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.pdb
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\InheritanceRevision.genruntimeconfig.cache
+C:\C#\repos\InheritanceRevision\obj\Debug\net6.0\ref\InheritanceRevision.dll
